@@ -66,9 +66,9 @@ Pull requests welcome. There are a lot of ways this could be improved. Feel free
 
 ## License
 
-![copyright](css/copyright.jpg)\
+![copyright](pink-mode/css/copyright.jpg)\
 Lesley-Nicole 2022 [MIT](https://choosealicense.com)
 
 ## Author
 
-![lesley-nicole](css/name-icon.png)
+![lesley-nicole](pink-mode/css/name-icon.png)
